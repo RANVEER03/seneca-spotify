@@ -5,8 +5,13 @@
 *  distributed to other students.
 * 
 *  Name: Ranveer Singh Saini Student ID: 134213206 Date: 2022-03-26
+*  
+*  Angular App (Deployed) Link: https://seneca-app-web422.netlify.app/login
+*
+*  User API (Heroku) Link: https://sleepy-chamber-84621.herokuapp.com
 *
 ********************************************************************************/ 
+ 
 import { Component, OnInit } from '@angular/core';
 import { Router, Event, NavigationStart } from '@angular/router';
 import { AuthService } from './auth.service';
